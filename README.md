@@ -19,7 +19,7 @@
     DISM /Online /Cleanup /Image /CheckHealth
 
 ### ✈️ Step 3:
-    Task Scheduler -> ... -> Disabled
+    Task Scheduler -> ... -> Disabled ✅ Then Delete ✅
 ![Screenshot (2)](https://github.com/user-attachments/assets/89fdde0f-8038-4dac-8aa4-ddc1b0f83143)
 
 
