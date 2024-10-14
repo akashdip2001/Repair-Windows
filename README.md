@@ -8,6 +8,7 @@
 </p>
 
 ### ✈️ Step 1: At First Downlow any antivirus and scan & Remove [malware](https://www.malwarebytes.com/)
+    after Clean you can Uninstall the Antivirus ❓
 ### ✈️ Step 2: Then repair Windows files - 
 
 #### ✅ Process 1
@@ -22,5 +23,10 @@
     Task Scheduler -> ... -> Disabled ✅ Then Delete ✅
 ![Screenshot (2)](https://github.com/user-attachments/assets/89fdde0f-8038-4dac-8aa4-ddc1b0f83143)
 
+### ✈️ Step 4: ❓
+![Screenshot (3)](https://github.com/user-attachments/assets/3201c25a-0285-4736-a704-95f674798e95)
+![Screenshot (4)](https://github.com/user-attachments/assets/239a0b31-b63c-4c7c-91e4-fe25fe182868)
+![Screenshot (5)](https://github.com/user-attachments/assets/79f0a03e-cfb8-4a56-9545-2a46d2998114)
+![Screenshot (6)](https://github.com/user-attachments/assets/fe0ef6e0-4542-4063-b8f4-159cb63e63c1)
 
 
